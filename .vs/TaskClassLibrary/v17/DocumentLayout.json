@@ -7,15 +7,6 @@
       "RelativeMoniker": "D:0:0:{D82C3E52-1B00-4A2E-9011-D85702E9020E}|TaskClassLibrary.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9964BEE9-2878-4F61-BB85-1E3A6E31A4DE}|..\\Model\\Model.csproj|c:\\users\\nesir\\source\\repos\\model\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9964BEE9-2878-4F61-BB85-1E3A6E31A4DE}|..\\Model\\Model.csproj|c:\\users\\nesir\\source\\repos\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9964BEE9-2878-4F61-BB85-1E3A6E31A4DE}|..\\Model\\Model.csproj|c:\\users\\nesir\\source\\repos\\model\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D82C3E52-1B00-4A2E-9011-D85702E9020E}|TaskClassLibrary.csproj|c:\\users\\nesir\\source\\repos\\taskclasslibrary\\taskclasslibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D82C3E52-1B00-4A2E-9011-D85702E9020E}|TaskClassLibrary.csproj|solutionrelative:taskclasslibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -27,47 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "C:\\Users\\nesir\\source\\repos\\Model\\Manager.cs",
-              "RelativeDocumentMoniker": "..\\Model\\Manager.cs",
-              "ToolTip": "C:\\Users\\nesir\\source\\repos\\Model\\Manager.cs",
-              "RelativeToolTip": "..\\Model\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T21:33:58.018Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Assistant.cs",
-              "DocumentMoniker": "C:\\Users\\nesir\\source\\repos\\Model\\Assistant.cs",
-              "RelativeDocumentMoniker": "..\\Model\\Assistant.cs",
-              "ToolTip": "C:\\Users\\nesir\\source\\repos\\Model\\Assistant.cs",
-              "RelativeToolTip": "..\\Model\\Assistant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T21:33:44.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\nesir\\source\\repos\\Model\\Employee.cs",
-              "RelativeDocumentMoniker": "..\\Model\\Employee.cs",
-              "ToolTip": "C:\\Users\\nesir\\source\\repos\\Model\\Employee.cs",
-              "RelativeToolTip": "..\\Model\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T21:33:25.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "TaskClassLibrary.csproj",
               "DocumentMoniker": "C:\\Users\\nesir\\source\\repos\\TaskClassLibrary\\TaskClassLibrary.csproj",
               "RelativeDocumentMoniker": "TaskClassLibrary.csproj",
@@ -85,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\nesir\\source\\repos\\TaskClassLibrary\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T21:31:56.977Z",
               "EditorCaption": ""

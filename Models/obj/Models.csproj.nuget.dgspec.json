@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nesir\\source\\repos\\TaskClassLibrary\\TaskClassLibrary.csproj": {}
+    "C:\\Users\\nesir\\source\\repos\\TaskClassLibrary\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nesir\\source\\repos\\TaskClassLibrary\\TaskClassLibrary.csproj": {
+    "C:\\Users\\nesir\\source\\repos\\TaskClassLibrary\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nesir\\source\\repos\\TaskClassLibrary\\TaskClassLibrary.csproj",
-        "projectName": "TaskClassLibrary",
-        "projectPath": "C:\\Users\\nesir\\source\\repos\\TaskClassLibrary\\TaskClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\nesir\\source\\repos\\TaskClassLibrary\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\nesir\\source\\repos\\TaskClassLibrary\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\nesir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nesir\\source\\repos\\TaskClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\nesir\\source\\repos\\TaskClassLibrary\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nesir\\AppData\\Roaming\\NuGet\\NuGet.Config",

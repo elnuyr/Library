@@ -1,4 +1,4 @@
-﻿using Model;
+﻿using Models;
 Employee employee = new Employee("Elnur", true, 500);
 Assistant assistant = new Assistant("Kamran", true, 1000);
 
